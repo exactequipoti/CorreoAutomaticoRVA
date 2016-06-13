@@ -1,0 +1,19 @@
+2016-06-13 16:40:21,879 [Worker-15] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.exact:sendemail:0.0.1-SNAPSHOT @ C:\Users\Benji\Desktop\SendCorreo\sendemail\pom.xml.
+2016-06-13 16:40:21,879 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.exact:sendemail:0.0.1-SNAPSHOT @ C:\Users\Benji\Desktop\SendCorreo\sendemail\pom.xml.
+2016-06-13 16:40:24,216 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:24,222 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-13 16:40:24,231 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:24,231 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Benji\Desktop\SendCorreo\sendemail\src\test\resources
+2016-06-13 16:40:27,449 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.exact:sendemail:0.0.1-SNAPSHOT @ C:\Users\Benji\Desktop\SendCorreo\sendemail\pom.xml.
+2016-06-13 16:40:28,361 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:28,379 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 6 resources
+2016-06-13 16:40:28,387 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:28,387 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Benji\Desktop\SendCorreo\sendemail\src\test\resources
+2016-06-13 16:40:29,955 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:29,956 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-06-13 16:40:29,957 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:40:29,957 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Benji\Desktop\SendCorreo\sendemail\src\test\resources
+2016-06-13 16:41:11,321 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:41:11,322 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Benji\Desktop\SendCorreo\sendemail\src\main\resources
+2016-06-13 16:41:11,323 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-06-13 16:41:11,324 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Benji\Desktop\SendCorreo\sendemail\src\test\resources
