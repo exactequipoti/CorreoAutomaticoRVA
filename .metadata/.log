@@ -103,3 +103,16 @@ java.io.IOException: El proceso no tiene acceso al archivo porque otro proceso t
 	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:183)
 	at org.eclipse.egit.ui.internal.staging.StagingView$48.run(StagingView.java:2463)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.egit.ui 4 0 2016-06-13 16:44:19.124
+!MESSAGE El proceso no tiene acceso al archivo porque otro proceso tiene bloqueada una parte del archivo
+!STACK 0
+java.io.IOException: El proceso no tiene acceso al archivo porque otro proceso tiene bloqueada una parte del archivo
+	at java.io.FileInputStream.read0(Native Method)
+	at java.io.FileInputStream.read(Unknown Source)
+	at org.eclipse.jgit.util.IO.readWholeStream(IO.java:216)
+	at org.eclipse.jgit.treewalk.WorkingTreeIterator.possiblyFilteredInputStream(WorkingTreeIterator.java:379)
+	at org.eclipse.jgit.treewalk.WorkingTreeIterator.getEntryContentLength(WorkingTreeIterator.java:535)
+	at org.eclipse.jgit.api.AddCommand.call(AddCommand.java:183)
+	at org.eclipse.egit.ui.internal.staging.StagingView$48.run(StagingView.java:2463)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
